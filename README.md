@@ -1,0 +1,2 @@
+# YBIGTA.github.io
+blog
